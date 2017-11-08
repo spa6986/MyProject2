@@ -1,25 +1,33 @@
 <html>
 <head>
+</head>
 <style>
 body {
-    background-color: darkblue;
+    background: radial-gradient(red, blue, green);
+	color: white;
+	text-align: center;
+	font-size: 250%;
 }
 h1 {
     color: white;
     text-align: center;
+	font-family: courier new;
 }
 p {
     font-family: verdana;
     font-size: 20px;
 }
+a, a:visited {
+color: inherit;
+
+}
 
 </style>
-<h1> The Home Page </h1>
-</head>
 <body>
-<a href="2ndProjectOfDeath" Inventions! </a>
+<h1> The Home Page </h1>
+<a  href="2ndProjectOfDeath">Inventions! </a> 
 <div>
-<div>
-<a href="projectOfDeath" Holidays! </a>
-</head>
+
+<a href="projectOfDeath">Holidays! </a>
+</body>
 </html>
