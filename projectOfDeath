@@ -2,7 +2,7 @@
 <head>
 <style>
 body {
-	background-color: light blue;
+	background: radial-gradient(lightseagreen, aquamarine, mintcream);
 	font-family: courier new;
 	color: darkcyan
 }
