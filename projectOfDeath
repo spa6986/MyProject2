@@ -2,7 +2,17 @@
 <head>
 <style>
 body {
-	background-color: lightblue;
+	background-color: light blue;
+	font-family: courier new;
+	color: darkcyan
+}
+h1 {
+    color: darkslateblue;
+    text-align: center;
+    font-family: courier new;
+}
+h3 {
+	color: white
 }
 </style>
 <title>Random holidays you don't know about</title>
@@ -46,6 +56,13 @@ that would suck up the earth. Mad scientists enjoy thinking about this concept.<
 <div>
 <p>You're going to be sick and tired of grapefruit after a whole month of eating it breakfast, lunch, and dinner, which is why National
 Grapefruit Month only comes around once a year.
+<div>
+<div>
+<h3>National Ballpoint Pen Day - June 10</h3>
+<div>
+<p>On June 10, 1943, the first patent for the ballpoint pen was filed. And it's a good thing, too, or else we would still be furiously
+and frequently dipping a quill plucked from a poor, unfortunate bird into an inkwell and writing a single letter, then angstily dipping
+the quill BACK into the inkwell for <i>yet more ink.</i></p>
 <div>
 <div>
 <h3>Sources</h3>
