@@ -1,1 +1,53 @@
-
+<html>
+<head>
+<title> Random stuff that should be famous, but isn't </title>
+</head>
+<style>
+body {
+    background: radial-gradient(Aquamarine, Blueviolet, Cadetblue);
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+</style>
+<body>
+<h1> Weirdest pets possible</h1>
+<div>
+<h3> The scorpion!</h3>
+<p> While being slightly terrifying- Okay, incredibly- some people would say scorpions make good pets! They dont require much tending
+too. You don't really need to feed them, they can do that themselves. There is literally no shedding! Most of the time they don't get in
+your way, either. So if you enjoy having a freaky insect roaming your house and scaring your guests, maybe you should get one! But
+never invite me over, thanks. </p>
+<div>
+<div>
+<h3> The sugar glider </h3>
+<div>
+<p>This adorable little animal is tiny, has huge eyes, and looks great on the mantle. It only has one, small problem. It has four different
+scents to mark it's territory. Four! Also it poops a lot, and can fly. You might want to get plastic curtains </p>
+<div>
+<div>
+<h3> The hissing cockroach </h3>
+<div>
+<p> The hissing cockroach is a very, very, very, um.... Popular? Pet? Maybe? Why would someone want to get a hissing cockroach?!?! Those
+things are freaky! I don't understand. Why would someone want a gross, little... abomination like that as a pet? But, you know, you
+do you, I guess. Just do you away from me. </p>
+<div>
+<div>
+<h3> The fennec fox </h3>
+<div>
+<p>The fennec fox is a little tan creature, that is quite possibly the most adorable thing you've seen since Pikachu. It's got these huge, 
+elf-like ears, and has tiny eyes that seem to be perpetually squinting. You should get one. Then invite me over. I WANT TO PET IT. </p>
+<div>
+<div>
+<h3> The squirrel monkey </h3>
+<div>
+<p> The squirrel monkey looks like a monkey, is tiny like a squirrel, and acts like a mixture of both. It's angry and eats everything, 
+and inside it's cute little face probably wants to first explode the world, then set fire to the sun. Somehow. I'm not sure how it 
+would do that, but squirrel monkeys aren't known for their smarts. </p>
+</body>
+</html>
