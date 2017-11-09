@@ -25,9 +25,9 @@ color: inherit;
 </style>
 <body>
 <h1> The Home Page </h1>
-<a  href="2ndProjectOfDeath">Inventions! </a> 
+<a  href="2ndProjectOfDeath.html">Inventions! </a> 
 <div>
 
-<a href="projectOfDeath">Holidays! </a>
+<a href="projectOfDeath.html">Holidays! </a>
 </body>
 </html>
