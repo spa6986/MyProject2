@@ -1,12 +1,20 @@
 <html>
-body {
-    background-color: lightblue;
-}
-
-
 <head>
 <title> Random stuff that should be famous, but isn't </title>
 </head>
+<style>
+body {
+    background: radial-gradient(purple, blue, red);
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+</style>
 <body>
 <h1> Random stuff that should be famous, but for some reason isn't </h1>
 <div>
@@ -33,7 +41,7 @@ responsible for any damage occurred when a crazy younger sibling rotates the ben
 course. </p>
 <div>
 <div>
-<h3>The coolest pen EVER </3>
+<h3>The coolest pen EVER </h3>
 <div>
 <p> Ok, so both of the developers were completely in awe of this pen when they saw this. It looks like a normal pen, except the end that
 you don't write with is abnormally large. But, you use the abnormally large section and point it at different things. The large part is
